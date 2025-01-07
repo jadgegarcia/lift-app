@@ -57,7 +57,7 @@ object Constants {
                 name = "Shoulder press",
                 image = R.drawable.shoulder_press,
                 calorie = 9.0,
-                level = "Advance"
+                level = "Intermediate"
             ),
         )
     }
